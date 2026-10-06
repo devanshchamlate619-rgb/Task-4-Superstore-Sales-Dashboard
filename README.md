@@ -31,6 +31,6 @@ Created an interactive Power BI dashboard to analyze sales, profit, orders, and 
 
 ## Files
 - `Superstore_Sales_Dashboard.pbix` – Power BI dashboard
-- `Superstore_Sales_Dashboard_Task4.pptx` – PPT summary
+- `Superstore Sales & Profit Dashboard.pptx` – PPT summary
 - Dashboard screenshot
 - Superstore dataset
